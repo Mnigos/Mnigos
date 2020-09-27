@@ -113,6 +113,10 @@
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png" alt="Mongoose's logo" />
 </a>
 
+  <a title="Es6" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/es6/es6.png" alt="Es6's logo" />
+  </a>
+
 <a title="Github" href="https://github.com">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="Github's logo" />
 </a>
