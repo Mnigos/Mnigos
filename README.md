@@ -14,7 +14,7 @@
   </a>
 
   <a title="Nuxt" href="https://nuxtjs.org/">
-      <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nuxt/nuxt.png" alt="Nuxt's logo" />
+      <img width="40" src="https://avatars3.githubusercontent.com/u/23360933?s=280&v=4" alt="Nuxt's logo" />
   </a>
 
   <a title="Javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -30,7 +30,7 @@
   </a>
   
   <a title="Express" href="https://expressjs.com/">
-      <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="Express's logo" />
+     <img width="40" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="Express's logo" />
   </a>
 
   <a title="Html" href="https://www.w3.org/html/">
@@ -89,6 +89,10 @@
     <img width="40" src="https://panic.com/blog/wp-content/uploads/2015/02/edcon_color_transbg2.png" alt="Editorconfig's logo" />
 </a>
 
+<a title="Prettier" href="https://prettier.io/">
+    <img width="40" src="https://avatars2.githubusercontent.com/u/25822731?s=400&v=4" alt="Prettier's logo" />
+</a>
+
 <a title="Heroku" href="https://heroku.com/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/heroku/heroku.png" alt="Heroku's logo" />
 </a>
@@ -98,11 +102,19 @@
 </a>
 
 <a title="Mongodb" href="https://www.mongodb.com/">
-    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="Mongodb's logo" />
+    <img width="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB's logo" />
 </a>
 
 <a title="Mongoose" href="https://mongoosejs.com/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png" alt="Mongoose's logo" />
+</a>
+
+<a title="Github" href="https://github.com">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="Github's logo" />
+</a>
+
+<a title="Git" href="https://git-scm.com/">
+    <img width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git's logo" />
 </a>
 
 <a title="Pwa" href="https://web.dev/progressive-web-apps/">
