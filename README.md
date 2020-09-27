@@ -52,6 +52,10 @@
   <a title="Flask" href="https://flask.palletsprojects.com/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" alt="Flask's logo" />
   </a>
+  
+  <a title="CSharp" href="http://www.cplusplus.com/">
+    <img width="40" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="CSharp's logo" />
+  </a>
 </p>
 
 <p align="center">
