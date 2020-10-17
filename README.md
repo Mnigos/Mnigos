@@ -138,3 +138,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoneyIgos&count_private=true&show_icons=true&theme=tokyonight" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoneyIgos&layout=compact&theme=tokyonight" />
 </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=tokyonight"
+</p>
