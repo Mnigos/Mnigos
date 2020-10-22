@@ -18,7 +18,7 @@
   </a>
   
   <a title="Vuetify" href="https://vuetifyjs.com">
-    <img width="40" src ="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" />
+    <img height="40" src ="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" />
   </a>
 
   <a title="Javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
