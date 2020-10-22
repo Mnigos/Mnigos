@@ -16,6 +16,10 @@
   <a title="Nuxt" href="https://nuxtjs.org/">
       <img width="40" src="https://avatars3.githubusercontent.com/u/23360933?s=280&v=4" alt="Nuxt's logo" />
   </a>
+  
+  <a title="Vuetify" href="https://vuetifyjs.com">
+    <img width="40" src ="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" />
+  </a>
 
   <a title="Javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="Javascript's logo" />
