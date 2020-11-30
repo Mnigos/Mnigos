@@ -33,6 +33,10 @@
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Nodejs's logo" />
   </a>
   
+  <a title="Nest.js" href="https://nestjs.com/>
+    <img width="40" src="https://docs.nestjs.com/assets/logo-small.svg" alt="Nest.js's logo" />
+  </a>
+  
   <a title="Express" href="https://expressjs.com/">
      <img width="40" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="Express's logo" />
   </a>
