@@ -117,6 +117,10 @@
     <img height="40" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" alt="Heroku's logo" />
 </a>
 
+<a title="Netlify" href="https://www.netlify.com/">
+    <img width="40" src="https://www.netlify.com/img/press/logos/logomark.png"
+<a/>
+
 <a title="Jwt" href="https://jwt.io/">
     <img width="40" src="https://jwt.io/img/pic_logo.svg" alt="Jwt's logo" />
 </a>
