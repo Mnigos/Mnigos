@@ -114,7 +114,7 @@
 </a>
 
 <a title="Heroku" href="https://heroku.com/">
-    <img width="40" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" alt="Heroku's logo" />
+    <img height="40" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" alt="Heroku's logo" />
 </a>
 
 <a title="Jwt" href="https://jwt.io/">
