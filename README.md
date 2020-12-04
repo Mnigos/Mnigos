@@ -70,6 +70,10 @@
 <a title="Webpack" href="https://webpack.js.org/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/webpack/webpack.png" alt="Webpack's logo" />
 </a>
+  
+<a title="Parcel" href="https://parceljs.org/">
+    <img height="40" src="https://parceljs.org/assets/favicon.ico" alt="Parcel's logo" />
+</a>
 
 <a title="Babel" href="https://babeljs.io/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/babel/babel.png" alt="Babel's logo" />
@@ -77,6 +81,10 @@
 
 <a title="Eslint" href="https://eslint.org/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/eslint/eslint.png" alt="Eslint's logo" />
+</a>
+
+<a title="Jest" href="https://jestjs.io/">
+    <img height="40" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="Jest's logo" />
 </a>
 
 <a title="Raspberry-pi" href="https://www.raspberrypi.org/">
