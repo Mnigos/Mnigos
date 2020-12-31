@@ -6,6 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=MoneyIgos" alt="visitors" />
 </p>
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=MoneyIgos">
+</p>
+
 <h2 align="center">Know and using</h2>
 
 <p align="center">
