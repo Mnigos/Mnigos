@@ -42,7 +42,7 @@
   </a>
   
   <a title="Express" href="https://expressjs.com/">
-     <img width="40" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Famt.in%2Fimg%2Fservices%2Fexpress.png&f=1&nofb=1" alt="Express's logo" />
+     <img width="40" src="https://www.mindrops.com/images/expressJS.png" alt="Express's logo" />
   </a>
 
   <a title="Html" href="https://www.w3.org/html/">
