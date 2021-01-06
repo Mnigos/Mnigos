@@ -42,12 +42,12 @@
   </a>
   
   <a title="Express" href="https://expressjs.com/">
-     <img width="40" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="Express's logo" />
+     <img width="40" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Famt.in%2Fimg%2Fservices%2Fexpress.png&f=1&nofb=1" alt="Express's logo" />
   </a>
 
   <a title="Html" href="https://www.w3.org/html/">
       <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="Html's logo" />
-  </a>
+  </a>      
 
   <a title="Css" href="https://css-tricks.com/">
       <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="Css's logo" />
@@ -66,7 +66,7 @@
   </a>
   
   <a title="CSharp" href="http://www.cplusplus.com/">
-    <img width="40" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="CSharp's logo" />
+    <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fberkarat.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fc-logo.png&f=1&nofb=1" alt="CSharp's logo" />
   </a>
 </p>
 
@@ -130,7 +130,7 @@
 </a>
 
 <a title="Mongodb" href="https://www.mongodb.com/">
-    <img width="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB's logo" />
+    <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmsdnshared.blob.core.windows.net%2Fmedia%2FMSDNBlogsFS%2Fprod.evol.blogs.msdn.com%2FCommunityServer.Blogs.Components.WeblogFiles%2F00%2F00%2F00%2F60%2F29%2Fmetablogapi%2F8712.mongodb-logo_19A95E89.png&f=1&nofb=1" alt="MongoDB's logo" />
 </a>
 
 <a title="Mongoose" href="https://mongoosejs.com/">
