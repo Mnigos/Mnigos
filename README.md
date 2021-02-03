@@ -61,6 +61,10 @@
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python's logo" />
   </a>
   
+  <a title="Kotlin" href="https://kotlinlang.org/">
+    <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F74%2FKotlin-logo.svg%2F1200px-Kotlin-logo.svg.png&f=1&nofb=1"
+  </a>
+  
   <a title="Flask" href="https://flask.palletsprojects.com/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" alt="Flask's logo" />
   </a>
