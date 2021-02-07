@@ -169,3 +169,5 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MoneyIgos&theme=tokyonight"
 </p>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoneyIgos&theme=tokyonight" alt="milesq" /></p>
