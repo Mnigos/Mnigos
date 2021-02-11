@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=MoneyIgos&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mnigos&theme=onedark">
 </p>
 
 <h2 align="center">Know and using</h2>
