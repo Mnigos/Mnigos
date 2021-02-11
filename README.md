@@ -166,10 +166,10 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoneyIgos&count_private=true&show_icons=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoneyIgos&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mnigos&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnigos&layout=compact&theme=tokyonight" />
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoneyIgos&theme=tokyonight" alt="moneyigos" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mnigos&theme=tokyonight" alt="moneyigos" /></p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MoneyIgos&theme=tokyonight"
 </p>
