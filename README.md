@@ -171,5 +171,5 @@
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mnigos&theme=tokyonight" alt="moneyigos" /></p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MoneyIgos&theme=tokyonight"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MoneyIgos&layout=compact&theme=tokyonight"
 </p>
