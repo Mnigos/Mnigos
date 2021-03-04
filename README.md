@@ -10,6 +10,18 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Mnigos&theme=onedark">
 </p>
 
+### Favorite Technologies
+  *  <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue's logo" /> Vue.js
+  *  <img width="16" src="https://docs.nestjs.com/assets/logo-small.svg" alt="Nest.js's logo" /> Nest.js
+
+### What I want to learn
+  * <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Frust-lang.org%2Flogos%2Frust-logo-512x512-blk.png&f=1&nofb=1" width="16" alt="Rust's logo"/> Rust
+  * <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png" width="16" alt="React's logo" /> React
+
+### 📚 What I'm currently learning
+* <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.scottbrady91.com%2Fimg%2Flogos%2Fktor.png&f=1&nofb=1" width="16"/> Ktor
+* <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F74%2FKotlin-logo.svg%2F1200px-Kotlin-logo.svg.png&f=1&nofb=1" width="16"/> Kotlin
+
 <h2 align="center">Know and using</h2>
 
 <p align="center">
