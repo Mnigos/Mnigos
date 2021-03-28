@@ -1,10 +1,12 @@
 <h1 align="center">Hello there ✨</h1>
 
-<p align="center">Full-stack developer, but especially Front-end developer.</p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MoneyIgos" alt="visitors" />
+  Full-stack developer, but especially Front-end developer.
+  
+![Visitors](https://komarev.com/ghpvc/?username=MoneyIgos) [![Coffee](https://badgen.net/badge/Buy%20Me/A%20Coffee/purple?icon=kofi)](https://www.buymeacoffee.com/mnigos)
+
 </p>
+
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Mnigos&theme=onedark">
