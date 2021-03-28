@@ -22,7 +22,7 @@
 
 ### 📚 What I'm currently learning
 * <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.scottbrady91.com%2Fimg%2Flogos%2Fktor.png&f=1&nofb=1" width="16"/> Ktor
-* <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F74%2FKotlin-logo.svg%2F1200px-Kotlin-logo.svg.png&f=1&nofb=1" width="16"/> Kotlin
+* <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fapppresser.com%2Fwp-content%2Fuploads%2Fbb-plugin%2Fcache%2Fkotlin-logo-square.png&f=1&nofb=1" width="16"/> Kotlin
 
 <h2 align="center">Know and using</h2>
 
@@ -76,7 +76,7 @@
   </a>
   
   <a title="Kotlin" href="https://kotlinlang.org/">
-    <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F74%2FKotlin-logo.svg%2F1200px-Kotlin-logo.svg.png&f=1&nofb=1"
+    <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fapppresser.com%2Fwp-content%2Fuploads%2Fbb-plugin%2Fcache%2Fkotlin-logo-square.png&f=1&nofb=1"
   </a>
   
   <a title="Flask" href="https://flask.palletsprojects.com/">
