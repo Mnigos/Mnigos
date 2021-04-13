@@ -18,9 +18,9 @@
 
 ### What I want to learn
   * <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Frust-lang.org%2Flogos%2Frust-logo-512x512-blk.png&f=1&nofb=1" width="16" alt="Rust's logo"/> Rust
-  * <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png" width="16" alt="React's logo" /> React
 
 ### 📚 What I'm currently learning
+* <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png" width="16" alt="React's logo" /> React
 * <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.scottbrady91.com%2Fimg%2Flogos%2Fktor.png&f=1&nofb=1" width="16"/> Ktor
 * <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fapppresser.com%2Fwp-content%2Fuploads%2Fbb-plugin%2Fcache%2Fkotlin-logo-square.png&f=1&nofb=1" width="16"/> Kotlin
 
