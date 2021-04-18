@@ -30,6 +30,10 @@
   <a title="Vue" href="http://vuejs.org/">
       <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue's logo" />
   </a>
+  
+  <a title="React" href="https://reactjs.org/">
+  <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png" width="16" alt="React's logo" />
+  </a>
 
   <a title="Nuxt" href="https://nuxtjs.org/">
       <img width="40" src="https://avatars3.githubusercontent.com/u/23360933?s=280&v=4" alt="Nuxt's logo" />
