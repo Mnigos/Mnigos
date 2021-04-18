@@ -32,7 +32,7 @@
   </a>
   
   <a title="React" href="https://reactjs.org/">
-  <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png" width="16" alt="React's logo" />
+  <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png" width="40" alt="React's logo" />
   </a>
 
   <a title="Nuxt" href="https://nuxtjs.org/">
