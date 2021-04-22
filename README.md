@@ -38,6 +38,10 @@
   <a title="Nuxt" href="https://nuxtjs.org/">
       <img width="40" src="https://avatars3.githubusercontent.com/u/23360933?s=280&v=4" alt="Nuxt's logo" />
   </a>
+
+  <a title="Next" href="https://nextjs.org/">
+    <img width="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="Next's logo" />
+  </a>
   
   <a title="Vuetify" href="https://vuetifyjs.com">
     <img height="40" src ="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" />
