@@ -14,7 +14,7 @@
 
 ### Favorite Technologies
   *  <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue's logo" /> Vue.js
-  *  <img width="16" src="https://docs.nestjs.com/assets/logo-small.svg" alt="Nest.js's logo" /> Nest.js
+  *  <img width="16" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="Nest.js's logo" /> Nest.js
 
 ### What I want to learn
   * <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Frust-lang.org%2Flogos%2Frust-logo-512x512-blk.png&f=1&nofb=1" width="16" alt="Rust's logo"/> Rust
@@ -60,7 +60,7 @@
   </a>
   
   <a title="Nest.js" href="https://nestjs.com/">
-    <img width="40" src="https://docs.nestjs.com/assets/logo-small.svg" alt="Nest.js's logo" />
+    <img width="40" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="Nest.js's logo" />
   </a>
   
   <a title="Express" href="https://expressjs.com/">
