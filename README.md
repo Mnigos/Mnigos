@@ -1,7 +1,7 @@
 <h1 align="center">Hello there ✨</h1>
 
 <p align="center">
-  Full-stack developer, but especially Front-end developer.
+  Enthusiast of programming, dark music. Admirer of clean code. Backend & Frondend Developer 
   
 ![Visitors](https://komarev.com/ghpvc/?username=MoneyIgos) [![Coffee](https://badgen.net/badge/Buy%20Me/A%20Coffee/purple?icon=kofi)](https://www.buymeacoffee.com/mnigos)
 
