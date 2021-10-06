@@ -154,7 +154,7 @@
     <img width="40" src="https://www.netlify.com/img/press/logos/logomark.png"
 <a/>
   
-<a title="Vercel" href="vercel.com">
+<a title="Vercel" href="https://vercel.com">
     <img width="40" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" />
 </a>
   
