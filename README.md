@@ -102,7 +102,7 @@
 </a>
   
 <a title="Parcel" href="https://parceljs.org/">
-    <img height="40" src="https://parceljs.org/assets/favicon.ico" alt="Parcel's logo" />
+    <img height="40" src="https://www.pngkit.com/png/full/516-5165803_package-icon-3d-png-parcel-js.png" alt="Parcel's logo" />
 </a>
 
 <a title="Babel" href="https://babeljs.io/">
@@ -159,7 +159,7 @@
 </a>
 
 <a title="Mongodb" href="https://www.mongodb.com/">
-    <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmsdnshared.blob.core.windows.net%2Fmedia%2FMSDNBlogsFS%2Fprod.evol.blogs.msdn.com%2FCommunityServer.Blogs.Components.WeblogFiles%2F00%2F00%2F00%2F60%2F29%2Fmetablogapi%2F8712.mongodb-logo_19A95E89.png&f=1&nofb=1" alt="MongoDB's logo" />
+    <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcms-assets.tutsplus.com%2Fuploads%2Fusers%2F1116%2Fposts%2F24835%2Fpreview_image%2Fmongodb-logo.png&f=1&nofb=1" alt="MongoDB's logo" />
 </a>
 
 <a title="Mongoose" href="https://mongoosejs.com/">
@@ -167,7 +167,7 @@
 </a>
 
   <a title="Es6" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/es6/es6.png" alt="Es6's logo" />
+      <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffrontendmasters.com%2Fassets%2Fes6-logo-300x300.png&f=1&nofb=1" alt="Es6's logo" />
   </a>
 
 <a title="Github" href="https://github.com">
