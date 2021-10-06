@@ -153,6 +153,14 @@
 <a title="Netlify" href="https://www.netlify.com/">
     <img width="40" src="https://www.netlify.com/img/press/logos/logomark.png"
 <a/>
+  
+<a title="Vercel" href="vercel.com">
+    <img width="40" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" />
+</a>
+  
+<a title="Railway" href="https://railway.app">
+    <img width="40" src="https://railway.app/brand/logo-dark.svg" />
+</a>
 
 <a title="Jwt" href="https://jwt.io/">
     <img width="40" src="https://jwt.io/img/pic_logo.svg" alt="Jwt's logo" />
