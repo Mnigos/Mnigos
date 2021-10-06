@@ -17,7 +17,7 @@
   *  <img width="16" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="Nest.js's logo" /> Nest.js
 
 ### What I want to learn
-  * <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Frust-lang.org%2Flogos%2Frust-logo-512x512-blk.png&f=1&nofb=1" width="16" alt="Rust's logo"/> Rust
+  * <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Frust-lang.org%2Flogos%2Frust-logo-512x512-blk.png&f=1&nofb=1" width="16" alt="Rust's logo"/> Rust / <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="24" alt="Go lang's logo" /> Go lang
 
 ### 📚 What I'm currently learning
 * <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png" width="16" alt="React's logo" /> React
