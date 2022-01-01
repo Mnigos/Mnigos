@@ -1,0 +1,22 @@
+{
+  "name": "mnigos",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hello there ✨</h1>",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,json,md}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mnigos/Mnigos.git"
+  },
+  "author": "Mnigos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mnigos/Mnigos/issues"
+  },
+  "homepage": "https://github.com/Mnigos/Mnigos#readme",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}

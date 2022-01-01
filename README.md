@@ -2,30 +2,32 @@
 
 <p align="center">
   Enthusiast of programming and dark music. Admirer of clean code. Backend & Frontend Developer
-  
-  - [Gitlab](https://gitlab.com/Mnigos)
-  - [LinkedIn](https://www.linkedin.com/in/igor-makowski-b30684206)
-  
-![Visitors](https://komarev.com/ghpvc/?username=MoneyIgos) [![Coffee](https://badgen.net/badge/Buy%20Me/A%20Coffee/purple?icon=kofi)](https://www.buymeacoffee.com/mnigos)
-  
-</p>
 
+- [Gitlab](https://gitlab.com/Mnigos)
+- [LinkedIn](https://www.linkedin.com/in/igor-makowski-b30684206)
+
+![Visitors](https://komarev.com/ghpvc/?username=MoneyIgos) [![Coffee](https://badgen.net/badge/Buy%20Me/A%20Coffee/purple?icon=kofi)](https://www.buymeacoffee.com/mnigos)
+
+</p>
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Mnigos&theme=onedark">
 </p>
 
 ### Favorite Technologies
-  *  <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue's logo" /> Vue.js
-  *  <img width="16" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="Nest.js's logo" /> Nest.js
+
+- <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue's logo" /> Vue.js
+- <img width="16" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="Nest.js's logo" /> Nest.js
 
 ### What I want to learn
-  * <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Frust-lang.org%2Flogos%2Frust-logo-512x512-blk.png&f=1&nofb=1" width="16" alt="Rust's logo"/> Rust / <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="24" alt="Go lang's logo" /> Go lang
+
+- <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Frust-lang.org%2Flogos%2Frust-logo-512x512-blk.png&f=1&nofb=1" width="16" alt="Rust's logo"/> Rust / <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="24" alt="Go lang's logo" /> Go lang
 
 ### 📚 What I'm currently learning
-* <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png" width="16" alt="React's logo" /> React
-* <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.scottbrady91.com%2Fimg%2Flogos%2Fktor.png&f=1&nofb=1" width="16"/> Ktor
-* <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fapppresser.com%2Fwp-content%2Fuploads%2Fbb-plugin%2Fcache%2Fkotlin-logo-square.png&f=1&nofb=1" width="16"/> Kotlin
+
+- <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png" width="16" alt="React's logo" /> React
+- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.scottbrady91.com%2Fimg%2Flogos%2Fktor.png&f=1&nofb=1" width="16"/> Ktor
+- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fapppresser.com%2Fwp-content%2Fuploads%2Fbb-plugin%2Fcache%2Fkotlin-logo-square.png&f=1&nofb=1" width="16"/> Kotlin
 
 <h2 align="center">Know and using</h2>
 
@@ -33,7 +35,7 @@
   <a title="Vue" href="http://vuejs.org/">
       <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue's logo" />
   </a>
-  
+
   <a title="React" href="https://reactjs.org/">
   <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png" width="40" alt="React's logo" />
   </a>
@@ -45,7 +47,7 @@
   <a title="Next" href="https://nextjs.org/">
     <img width="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="Next's logo" />
   </a>
-  
+
   <a title="Vuetify" href="https://vuetifyjs.com">
     <img height="40" src ="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" />
   </a>
@@ -53,26 +55,26 @@
   <a title="Javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="Javascript's logo" />
   </a>
-  
+
   <a title="Typescript" href="https://www.typescriptlang.org/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="Typescript's logo" />
   </a>
-  
+
   <a title="Nodejs" href="https://nodejs.org/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Nodejs's logo" />
   </a>
-  
+
   <a title="Nest.js" href="https://nestjs.com/">
     <img width="40" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="Nest.js's logo" />
   </a>
-  
+
   <a title="Express" href="https://expressjs.com/">
      <img width="40" src="https://www.mindrops.com/images/expressJS.png" alt="Express's logo" />
   </a>
 
   <a title="Html" href="https://www.w3.org/html/">
       <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="Html's logo" />
-  </a>      
+  </a>
 
   <a title="Css" href="https://css-tricks.com/">
       <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="Css's logo" />
@@ -85,15 +87,15 @@
   <a title="Python" href="https://www.python.org/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python's logo" />
   </a>
-  
+
   <a title="Kotlin" href="https://kotlinlang.org/">
     <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fapppresser.com%2Fwp-content%2Fuploads%2Fbb-plugin%2Fcache%2Fkotlin-logo-square.png&f=1&nofb=1"
   </a>
-  
+
   <a title="Flask" href="https://flask.palletsprojects.com/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" alt="Flask's logo" />
   </a>
-  
+
   <a title="CSharp" href="http://www.cplusplus.com/">
     <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fberkarat.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fc-logo.png&f=1&nofb=1" alt="CSharp's logo" />
   </a>
@@ -103,7 +105,7 @@
 <a title="Webpack" href="https://webpack.js.org/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/webpack/webpack.png" alt="Webpack's logo" />
 </a>
-  
+
 <a title="Parcel" href="https://parceljs.org/">
     <img height="40" src="https://www.pngkit.com/png/full/516-5165803_package-icon-3d-png-parcel-js.png" alt="Parcel's logo" />
 </a>
@@ -154,13 +156,13 @@
 </a>
 
 <a title="Netlify" href="https://www.netlify.com/">
-    <img width="40" src="https://www.netlify.com/img/press/logos/logomark.png"
+    <img width="40" src="https://www.netlify.com/img/press/logos/logomark.png" />
 <a/>
-  
+
 <a title="Vercel" href="https://vercel.com">
     <img width="40" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" />
 </a>
-  
+
 <a title="Railway" href="https://railway.app">
     <img width="40" src="https://railway.app/brand/logo-dark.svg" />
 </a>
@@ -177,16 +179,16 @@
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png" alt="Mongoose's logo" />
 </a>
 
-  <a title="Es6" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffrontendmasters.com%2Fassets%2Fes6-logo-300x300.png&f=1&nofb=1" alt="Es6's logo" />
-  </a>
+<a title="Es6" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffrontendmasters.com%2Fassets%2Fes6-logo-300x300.png&f=1&nofb=1" alt="Es6's logo" />
+</a>
 
 <a title="Github" href="https://github.com">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="Github's logo" />
 </a>
 
 <a title="Git" href="https://git-scm.com/">
-    <img width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git's logo" />
+  <img width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git's logo" />
 </a>
 
 <a title="Pwa" href="https://web.dev/progressive-web-apps/">
@@ -204,5 +206,5 @@
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mnigos&theme=tokyonight" alt="moneyigos" /></p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MoneyIgos&layout=compact&theme=tokyonight"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MoneyIgos&layout=compact&theme=tokyonight" />
 </p>
