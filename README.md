@@ -48,6 +48,10 @@
     <img width="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="Next's logo" />
   </a>
 
+  <a title="Remix" href="https://remix.run">
+    <img width="40" src="https://blog.remix.run/build/media/r-yellow.dfa19c5e.png" alt="Remix's logo" />
+  </a>
+
   <a title="Vuetify" href="https://vuetifyjs.com">
     <img height="40" src ="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" />
   </a>
@@ -177,6 +181,10 @@
 
 <a title="Mongoose" href="https://mongoosejs.com/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png" alt="Mongoose's logo" />
+</a>
+  
+<a title="TypeORM" href="https://typeorm.io/#/">
+  <img width="40" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeORM's logo" />
 </a>
 
 <a title="Es6" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
