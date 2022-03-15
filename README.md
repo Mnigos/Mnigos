@@ -25,14 +25,18 @@
 
 ### 📚 What I'm currently learning
 
-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.scottbrady91.com%2Fimg%2Flogos%2Fktor.png&f=1&nofb=1" width="16"/> Ktor
-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fapppresser.com%2Fwp-content%2Fuploads%2Fbb-plugin%2Fcache%2Fkotlin-logo-square.png&f=1&nofb=1" width="16"/> Kotlin
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/199px-Svelte_Logo.svg.png" width="16" alt="Svelte's Logo" /> Svelte
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" width="16" alt="Graphql's Logo" /> GraphQL
 
 <h2 align="center">Know and using</h2>
 
 <p align="center">
   <a title="Vue" href="http://vuejs.org/">
       <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue's logo" />
+  </a>
+  
+  <a title="Svelte" href="https://svelte.dev">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/199px-Svelte_Logo.svg.png" width="40" alt="Svelte's Logo" />
   </a>
 
   <a title="React" href="https://reactjs.org/">
@@ -48,7 +52,7 @@
   </a>
 
   <a title="Remix" href="https://remix.run">
-    <img width="40" src="https://blog.remix.run/build/media/r-yellow.dfa19c5e.png" alt="Remix's logo" />
+    <img width="40" src="https://pbs.twimg.com/profile_images/1425897037602586625/ID6pueIo_400x400.png" alt="Remix's logo" />
   </a>
 
   <a title="Vuetify" href="https://vuetifyjs.com">
@@ -100,7 +104,7 @@
   </a>
 
   <a title="CSharp" href="http://www.cplusplus.com/">
-    <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fberkarat.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fc-logo.png&f=1&nofb=1" alt="CSharp's logo" />
+    <img width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="CSharp's logo" />
   </a>
 </p>
 
@@ -137,6 +141,10 @@
 </a>
 <a tltle="Android-Studio" href="https://developer.android.com">
   <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fappjoy.org%2Fwp-content%2Fuploads%2F2016%2F05%2FAndroid-Studio-Logo.png&f=1&nofb=1" alt="Android-Studio's logo" />
+</a>
+  
+<a title="GraphQL" href="https://graphql.org">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" width="40" alt="GraphQL's logo" />
 </a>
 
 <a title="Npm" href="https://www.npmjs.com/">
