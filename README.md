@@ -19,14 +19,11 @@
 - <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue's logo" /> Vue.js
 - <img width="16" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="Nest.js's logo" /> Nest.js
 
-### What I want to learn
-
-- <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="Solidity's logo" /> Solidity
-
 ### 📚 What I'm currently learning
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/199px-Svelte_Logo.svg.png" width="16" alt="Svelte's Logo" /> Svelte
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" width="16" alt="Graphql's Logo" /> GraphQL
+- <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="Solidity's logo" /> Solidity
 
 <h2 align="center">Know and using</h2>
 
