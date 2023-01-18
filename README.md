@@ -137,13 +137,16 @@
   <img height="40" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" alt="Heroku's logo" />
 </a>
 <a title="Netlify" href="https://www.netlify.com/">
-  <img width="40" src="https://pbs.twimg.com/card_img/1549679900419825666/qaFRQ3dT?format=png&name=small" />
+  <img width="40" src="https://cdn.iconscout.com/icon/free/png-256/netlify-3628945-3030170.png" />
 </a>
 <a title="Vercel" href="https://vercel.com">
   <img width="40" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" />
 </a>
 <a title="Railway" href="https://railway.app">
   <img width="40" src="https://railway.app/brand/logo-dark.svg" />
+</a>
+<a title="Strapi" href="https://strapi.io">
+  <img width="40" src="https://super-static-assets.s3.amazonaws.com/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png"
 </a>
 <a title="Jwt" href="https://jwt.io/">
   <img width="40" src="https://jwt.io/img/pic_logo.svg" alt="Jwt's logo" />
