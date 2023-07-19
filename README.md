@@ -32,7 +32,7 @@
       <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue's logo" />
   </a>
   <a title="Svelte" href="https://svelte.dev">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/199px-Svelte_Logo.svg.png" width="40" alt="Svelte's Logo" />
+    <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257070/file-type-svelte-icon-md.png" width="40" alt="Svelte's Logo" />
   </a>
   <a title="React" href="https://reactjs.org/">
   <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png" width="40" alt="React's logo" />
@@ -51,9 +51,6 @@
   </a>
   <a title="Express" href="https://expressjs.com/">
      <img width="40" src="https://www.mindrops.com/images/expressJS.png" alt="Express's logo" />
-  </a>
-  <a title="Vuetify" href="https://vuetifyjs.com">
-    <img height="40" src ="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" />
   </a>
   <a title="Javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="Javascript's logo" />
@@ -102,6 +99,9 @@
 </a>
 <a title="Vitest" href="https://vitest.dev/">
   <img width="40" src="https://vitest.dev/logo-shadow.svg" alt="Vitest's logo" />
+</a>
+<a title="Vuetify" href="https://vuetifyjs.com">
+  <img height="40" src ="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" />
 </a>
 <a title="Jest" href="https://jestjs.io/">
   <img height="40" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="Jest's logo" />
