@@ -16,41 +16,39 @@
 
 ### Favorite Technologies
 
-- <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue's logo" /> Vue.js
-- <img width="16" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="Nest.js's logo" /> Nest.js
+- <img width="16" src="./assets/nextjs.png" alt="Next's logo" /> Nextjs
+- <img width="16" src="./assets/nestjs.png" alt="Nest.js's logo" /> Nestjs
 
 ### 📚 What I'm currently learning
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/199px-Svelte_Logo.svg.png" width="16" alt="Svelte's Logo" /> Svelte
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" width="16" alt="Graphql's Logo" /> GraphQL
-- <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="Solidity's logo" /> Solidity
+- <img src="./assets/openai.png" alt="OpenAI's logo" height="16" /> OpenAI
 
 <h2 align="center">Know and using</h2>
 
 <a title="Javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img
     width="40"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"
+    src="./assets/javascript.png"
     alt="Javascript's logo"
   />
 </a>
 <a title="Typescript" href="https://www.typescriptlang.org/">
   <img
     width="40"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"
+    src="./assets/typescript.png"
     alt="Typescript's logo"
   />
 </a>
 <a title="Nodejs" href="https://nodejs.org/">
   <img
-    width="40"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"
+    height="40"
+    src="./assets/nodejs.png"
     alt="Nodejs's logo"
   />
 </a>
 <a title="React" href="https://reactjs.org/">
   <img
-    src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png"
+    src="./assets/react.png"
     width="40"
     alt="React's logo"
   />
@@ -58,209 +56,241 @@
 <a title="Vue" href="http://vuejs.org/">
   <img
     width="40"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"
+    src="./assets/vue.png"
     alt="Vue's logo"
   />
 </a>
 <a title="Next" href="https://nextjs.org/">
   <img
     width="40"
-    src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67"
+    src="./assets/nextjs.png"
     alt="Next's logo"
   />
 </a>
 <a title="Remix" href="https://remix.run">
   <img
     width="40"
-    src="https://pbs.twimg.com/profile_images/1425897037602586625/ID6pueIo_400x400.png"
+    src="./assets/remix.png"
     alt="Remix's logo"
   />
 </a>
 <a title="Nuxt" href="https://nuxtjs.org/">
   <img
     width="40"
-    src="https://avatars3.githubusercontent.com/u/23360933?s=280&v=4"
+    src="./assets/nuxtjs.svg"
     alt="Nuxt's logo"
   />
 </a>
 <a title="Nest.js" href="https://nestjs.com/">
   <img
     width="40"
-    src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png"
+    src="./assets/nestjs.png"
     alt="Nest.js's logo"
   />
 </a>
 <a title="Express" href="https://expressjs.com/">
   <img
     width="40"
-    src="https://www.mindrops.com/images/expressJS.png"
+    src="./assets/expressjs.png"
     alt="Express's logo"
   />
 </a>
 <a title="Strapi" href="https://strapi.io">
   <img
     width="40"
-    src="https://super-static-assets.s3.amazonaws.com/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png"
+    src="./assets/strapi.png"
+    alt="Strapi's logo"
+  />
+</a>
+<a title="Postgresql" href="https://www.postgresql.org/">
+  <img
+    src="./assets/postgresql.png"
+    alt="Postgresql's logo"
+    width="40"
+  />
+</a>
+<a title="TypeORM" href="https://typeorm.io">
+  <img
+    width="40"
+    src="./assets/typeorm.png"
+    alt="TypeORM's logo"
   />
 </a>
 <a title="Mongodb" href="https://www.mongodb.com/">
   <img
     width="40"
-    src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png"
+    src="./assets/mongodb.svg"
     alt="MongoDB's logo"
   />
 </a>
-<a title="Postgresql" href="https://www.postgresql.org/">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png"
-    alt="Postgresql's logo"
-    width="40"
-  />
-</a>
-<a title="TypeORM" href="https://typeorm.io/#/">
+<a title="Mongoose" href="https://mongoosejs.com/">
   <img
     width="40"
-    src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4"
-    alt="TypeORM's logo"
+    src="./assets/mongoose.png"
+    alt="Mongoose's logo"
   />
 </a>
 <a title="Docker" href="https://www.docker.com/">
   <img
     width="40"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"
+    src="./assets/docker.png"
     alt="Docker's logo"
   />
 </a>
+<a title="Vercel" href="https://vercel.com">
+  <img width="40" src="./assets/vercel.svg" alt="Vercel's logo" />
+</a>
+<a title="Railway" href="https://railway.app">
+  <img width="40" src="./assets/railway.png" alt="Railway's logo" />
+</a>
+<a title="ShadcnUI" href="https://ui.shadcn.com">
+  <img width="40" src="./assets/shadcnui.png" alt="ShadcnUI's logo" />
+</a>
+<a title="OpenAI" href="https://openai.com">
+  <img width="40" src="./assets/openai.png" alt="OpenAI's logo" />
+</a>
 <a title="Vitest" href="https://vitest.dev/">
-  <img width="40" src="https://vitest.dev/logo-shadow.svg" alt="Vitest's logo" />
+  <img width="40" src="./assets/vitest.svg" alt="Vitest's logo" />
 </a>
 <a title="Jest" href="https://jestjs.io/">
   <img
     height="40"
-    src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"
+    src="./assets/jest.png"
     alt="Jest's logo"
   />
 </a>
-<a title="Tailwind CSS" href="https://tailwindcss.com/">
+<a title="Testing Library" href="https://testing-library.com/">
   <img
     width="40"
-    src="https://camo.githubusercontent.com/bcd4bda49ef6cd9537db065920f4f4f6ac670eae0e0adf2c5133c19b319f1574/68747470733a2f2f627261646c632e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f627261646c632f7673636f64652d7461696c77696e646373732f302e322e302f313535383034303536333634392f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74"
-    alt="Tailwind CSS's logo"
+    src="./assets/testing-library.png"
+    alt="Testing Library's logo"
   />
-</a>
-<a title="Windi CSS" href="https://windicss.org/">
-  <img
-    width="40"
-    src="https://windicss.org/assets/logo.svg"
-    alt="Windi CSS's logo"
-  />
-</a>
 <a title="Webpack" href="https://webpack.js.org/">
   <img
     width="40"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/webpack/webpack.png"
+    src="./assets/webpack.png"
     alt="Webpack's logo"
   />
 </a>
 <a title="Vite" href="https://vitejs.dev">
   <img
     width="40"
-    src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667"
+    src="./assets/vitejs.svg"
     alt="Vite's logo"
   />
 </a>
-<a title="Vercel" href="https://vercel.com">
-  <img width="40" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" />
+<a title="TailwindCSS" href="https://tailwindcss.com/">
+  <img
+    width="40"
+    src="./assets/tailwindcss.png"
+    alt="TailwindCSS's logo"
+  />
 </a>
-<a title="Railway" href="https://railway.app">
-  <img width="40" src="https://railway.app/brand/logo-dark.svg" />
+<a title="Windi CSS" href="https://windicss.org/">
+  <img
+    width="40"
+    src="./assets/windicss.png"
+    alt="Windi CSS's logo"
+  />
 </a>
 <a title="Html" href="https://www.w3.org/html/">
   <img
     width="40"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"
+    src="./assets/html5.png"
     alt="Html's logo"
   />
 </a>
 <a title="Css" href="https://css-tricks.com/">
   <img
-    width="40"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"
+    height="40"
+    src="./assets/css3.png"
     alt="Css's logo"
   />
 </a>
 <a title="Eslint" href="https://eslint.org/">
   <img
     width="40"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/eslint/eslint.png"
+    src="./assets/eslint.svg"
     alt="Eslint's logo"
   />
 </a>
 <a title="Prettier" href="https://prettier.io/">
   <img
     width="40"
-    src="https://avatars2.githubusercontent.com/u/25822731?s=400&v=4"
+    src="./assets/prettier.png"
     alt="Prettier's logo"
   />
 </a>
 <a title="Stylelint" href="https://stylelint.io/">
   <img
     width="40"
-    src="https://cdn.worldvectorlogo.com/logos/stylelint.svg"
+    src="./assets/stylelint.png"
     alt="Stylelint's logo"
   />
+</a>
+<a title="MarkdownLint" href="https://github.com/markdownlint/markdownlint">
+  <img width="40" src="./assets/markdownlint.png" alt="MarkdownLint's logo" />
 </a>
 <a title="Editorconfig" href="https://editorconfig.org/">
   <img
     width="40"
-    src="https://panic.com/blog/wp-content/uploads/2015/02/edcon_color_transbg2.png"
+    src="./assets/editorconfig.png"
     alt="Editorconfig's logo"
   />
 </a>
 <a title="Npm" href="https://www.npmjs.com/">
   <img
     width="40"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"
+    src="./assets/npmjs.svg"
     alt="Npm's logo"
   />
 </a>
-<a title="Visual-studio-code" href="https://code.visualstudio.com/">
+<a title="Yarn" href="https://yarnpkg.com/">
   <img
     width="40"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"
+    src="./assets/yarnpkg.png"
+    alt="Yarn's logo"
+  />
+<a title="Visual studio code" href="https://code.visualstudio.com/">
+  <img
+    width="40"
+    src="./assets/vscode.png"
     alt="Visual-studio-code's logo"
   />
 </a>
 <a title="Git" href="https://git-scm.com/">
   <img
     width="40"
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    src="./assets/git.png"
     alt="Git's logo"
   />
 </a>
 <a title="Jwt" href="https://jwt.io/">
-  <img width="40" src="https://jwt.io/img/pic_logo.svg" alt="Jwt's logo" />
+  <img width="40" src="./assets/jsonwebtoken.svg" alt="Jwt's logo" />
 </a>
 <a title="Pwa" href="https://web.dev/progressive-web-apps/">
   <img
     width="40"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/pwa/pwa.png"
+    src="./assets/pwa.webp"
     alt="Pwa's logo"
   />
 </a>
 
 <h2 align="center">Heard or tried</h2>
 
+<a title="Solidity" href="https://soliditylang.org/">
+  <img height="40" src="./assets/solidity.png" alt="Solidity's logo" />
+</a>
 <a title="Svelte" href="https://svelte.dev">
   <img
-    src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257070/file-type-svelte-icon-md.png"
-    width="40"
+    src="./assets/svelte.png"
+    height="40"
     alt="Svelte's Logo"
   />
 </a>
 <a title="GraphQL" href="https://graphql.org">
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png"
+    src="./assets/graphql.png"
     width="40"
     alt="GraphQL's logo"
   />
@@ -268,70 +298,84 @@
 <a title="Heroku" href="https://heroku.com/">
   <img
     height="40"
-    src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"
+    src="./assets/heroku.png"
     alt="Heroku's logo"
   />
 </a>
 <a title="Netlify" href="https://www.netlify.com/">
   <img
     width="40"
-    src="https://cdn.iconscout.com/icon/free/png-256/netlify-3628945-3030170.png"
+    src="./assets/netlify.png"
     alt="Netlify's logo"
-  />
-</a>
-<a title="Mongoose" href="https://mongoosejs.com/">
-  <img
-    width="40"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png"
-    alt="Mongoose's logo"
   />
 </a>
 <a title="Vuetify" href="https://vuetifyjs.com">
   <img
     height="40"
-    src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"
+    src="./assets/vuetify.svg"
   />
 </a>
 <a title="Parcel" href="https://parceljs.org/">
   <img
     height="40"
-    src="https://www.pngkit.com/png/full/516-5165803_package-icon-3d-png-parcel-js.png"
+    src="./assets/parcel.png"
     alt="Parcel's logo"
   />
 </a>
 <a title="Babel" href="https://babeljs.io/">
   <img
     width="40"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/babel/babel.png"
+    src="./assets/babel.png"
     alt="Babel's logo"
   />
 </a>
-<a title="CSharp" href="http://www.cplusplus.com/">
+<a title="Visual Studio" href="https://visualstudio.microsoft.com/">
+  <img
+    width="40"
+    src="./assets/visual-studio.svg"
+    alt="Visual Studio's logo"
+  />
+</a>
+<a tltle="Android-Studio" href="https://developer.android.com">
+  <img
+    width="40"
+    src="./assets/android-studio.png"
+    alt="Android-Studio's logo"
+  />
+</a>
+<a title="CSharp" href="https://learn.microsoft.com/pl-pl/dotnet/csharp/">
   <img
     height="40"
-    src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
+    src="./assets/csharp.png"
     alt="CSharp's logo"
   />
 </a>
 <a title="Python" href="https://www.python.org/">
   <img
     width="40"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"
+    src="./assets/python.svg"
     alt="Python's logo"
   />
 </a>
 <a title="Pip" href="https://pypi.org/project/pip/">
   <img
     width="40"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/pip/pip.png"
+    src="./assets/pip.png"
     alt="Pip's logo"
    />
 </a>
-<a tltle="Android-Studio" href="https://developer.android.com">
+<a title="Kotlin" href="https://kotlinlang.org/">
   <img
     width="40"
-    src="https://img.dobreprogramy.pl/Images/ToolIcon/16899/20151002134819_0.png"
-    alt="Android-Studio's logo"
+    src="./assets/kotlin.png"
+    alt="Kotlin's logo"
+  />
+</a>
+<a title="Ktor" href="https://ktor.io/">
+  <img
+    width="40"
+    src="./assets/ktor.png"
+    alt="Ktor's logo"
   />
 </a>
 
