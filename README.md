@@ -165,6 +165,13 @@
     src="./assets/testing-library.png"
     alt="Testing Library's logo"
   />
+</a>
+<a title="Storybook" href="https://storybook.js.org/">
+  <img
+    width="40"
+    src="./assets/storybook.svg"
+    alt="Storybook's logo"
+  />
 <a title="Webpack" href="https://webpack.js.org/">
   <img
     width="40"
