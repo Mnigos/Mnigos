@@ -319,6 +319,7 @@
 <a title="Vuetify" href="https://vuetifyjs.com">
   <img
     height="40"
+    alt="Vuetify's logo"
     src="./assets/vuetify.svg"
   />
 </a>
@@ -371,6 +372,12 @@
     alt="Pip's logo"
    />
 </a>
+<a title="Flask" href="https://flask.palletsprojects.com/">
+  <img
+    height="40"
+    src="./assets/flask.png"
+    alt="Flask's logo"
+  />
 <a title="Kotlin" href="https://kotlinlang.org/">
   <img
     width="40"
@@ -383,6 +390,13 @@
     width="40"
     src="./assets/ktor.png"
     alt="Ktor's logo"
+  />
+</a>
+<a title="Gradle" href="https://gradle.com/">
+  <img
+    width="40"
+    src="./assets/gradle.png"
+    alt="Gradle's logo"
   />
 </a>
 
