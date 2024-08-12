@@ -22,9 +22,11 @@
 ### 📚 What I'm currently learning
 
 - <img src="./assets/openai.png" alt="OpenAI's logo" height="16" /> OpenAI
+- <img height="16" src="./assets/prisma.png" alt="Prisma's logo" /> Prisma
 
 <h2 align="center">Know and using</h2>
 
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 5px">
 <a title="Javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img
     width="40"
@@ -116,6 +118,13 @@
     alt="TypeORM's logo"
   />
 </a>
+<a title="Prisma" href="https://prisma.io/">
+  <img
+    height="40"
+    src="./assets/prisma.png"
+    alt="Prisma's logo"
+  />
+</a>
 <a title="Mongodb" href="https://www.mongodb.com/">
   <img
     width="40"
@@ -146,8 +155,17 @@
 <a title="ShadcnUI" href="https://ui.shadcn.com">
   <img width="40" src="./assets/shadcnui.png" alt="ShadcnUI's logo" />
 </a>
+<a title="React Query" href="https://tanstack.com/query/v3">
+  <img width="40" src="./assets/react-query.png" alt="React Query's logo" />
+</a>
 <a title="OpenAI" href="https://openai.com">
   <img width="40" src="./assets/openai.png" alt="OpenAI's logo" />
+</a>
+<a title="Auth.js" href="https://zod.dev/">
+  <img width="40" src="./assets/zod.png" alt="Auth.js's logo" />
+</a>
+<a title="Auth.js" href="https://authjs.dev/">
+  <img height="40" src="./assets/authjs.png" alt="Auth.js's logo" />
 </a>
 <a title="Vitest" href="https://vitest.dev/">
   <img width="40" src="./assets/vitest.svg" alt="Vitest's logo" />
@@ -186,6 +204,12 @@
     alt="Vite's logo"
   />
 </a>
+<a title="SWC" href="https://swc.rs/">
+  <img
+    width="40"
+    src="./assets/swc.png"
+    alt="SWC's logo"
+  />
 <a title="TailwindCSS" href="https://tailwindcss.com/">
   <img
     width="40"
@@ -195,7 +219,7 @@
 </a>
 <a title="Windi CSS" href="https://windicss.org/">
   <img
-    width="40"
+    height="40"
     src="./assets/windicss.png"
     alt="Windi CSS's logo"
   />
@@ -258,6 +282,15 @@
     src="./assets/yarnpkg.png"
     alt="Yarn's logo"
   />
+</a>
+<a title="Bun" href="https://bun.sh/">
+  <img
+    width="40"
+    src="./assets/bun.png"
+    alt="Bun's logo"
+  />
+</a>
+
 <a title="Visual studio code" href="https://code.visualstudio.com/">
   <img
     width="40"
@@ -282,9 +315,11 @@
     alt="Pwa's logo"
   />
 </a>
+</div>
 
 <h2 align="center">Heard or tried</h2>
 
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 5px">
 <a title="Solidity" href="https://soliditylang.org/">
   <img height="40" src="./assets/solidity.png" alt="Solidity's logo" />
 </a>
@@ -399,6 +434,7 @@
     alt="Gradle's logo"
   />
 </a>
+</div>
 
 <h2 align="center">Stats</h2>
 
