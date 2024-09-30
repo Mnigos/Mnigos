@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mnigos&theme=onedark">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mnigos&theme=onedark">
 </p>
 
 ### Favorite Technologies
@@ -21,8 +21,9 @@
 
 ### 📚 What I'm currently learning
 
-- <img src="./assets/openai.png" alt="OpenAI's logo" height="16" /> OpenAI
 - <img height="16" src="./assets/prisma.png" alt="Prisma's logo" /> Prisma
+- <img height="16" src="./assets/trpc.svg" alt="tRPC's logo" /> tRPC
+- <img height="16" src="./assets/turbo.png" alt="Turborepo's logo" /> Turborepo
 
 <h2 align="center">Know and using</h2>
 
