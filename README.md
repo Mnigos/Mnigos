@@ -18,6 +18,7 @@
 
 - <img width="16" src="./assets/nextjs.png" alt="Next's logo" /> Nextjs
 - <img width="16" src="./assets/nestjs.png" alt="Nest.js's logo" /> Nestjs
+- <img width="16" src="./assets/typescript.png" alt="Typescript's logo" /> TypeScript
 
 ### 📚 What I'm currently learning
 
