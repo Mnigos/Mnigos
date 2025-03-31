@@ -11,7 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mnigos&theme=onedark">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Mnigos&theme=onedark"
+    alt="Mnigos' Trophy"
+  />
 </p>
 
 ### Favorite Technologies
@@ -19,12 +22,7 @@
 - <img width="16" src="./assets/nextjs.png" alt="Next's logo" /> Nextjs
 - <img width="16" src="./assets/nestjs.png" alt="Nest.js's logo" /> Nestjs
 - <img width="16" src="./assets/typescript.png" alt="Typescript's logo" /> TypeScript
-
-### 📚 What I'm currently learning
-
-- <img height="16" src="./assets/prisma.png" alt="Prisma's logo" /> Prisma
 - <img height="16" src="./assets/trpc.svg" alt="tRPC's logo" /> tRPC
-- <img height="16" src="./assets/turbo.png" alt="Turborepo's logo" /> Turborepo
 
 <h2 align="center">Know and using</h2>
 
@@ -92,6 +90,13 @@
     alt="Nest.js's logo"
   />
 </a>
+<a title="tRPC" href="">
+  <img
+    width="40"
+    src="./assets/trpc.svg"
+    alt="tRPC's logo"
+  />
+</a>
 <a title="Express" href="https://expressjs.com/">
   <img
     width="40"
@@ -104,6 +109,13 @@
     width="40"
     src="./assets/strapi.png"
     alt="Strapi's logo"
+  />
+</a>
+<a title="Sanity" href="https://www.sanity.io/">
+  <img
+    width="40"
+    src="./assets/sanity.png"
+    alt="Sanity's logo"
   />
 </a>
 <a title="Postgresql" href="https://www.postgresql.org/">
@@ -148,6 +160,9 @@
     alt="Docker's logo"
   />
 </a>
+<a title="Turborepo" href="https://turbo.build">
+  <img width="40" src="./assets/turbo.png" alt="Turborepo's logo" />
+</a>
 <a title="Vercel" href="https://vercel.com">
   <img width="40" src="./assets/vercel.svg" alt="Vercel's logo" />
 </a>
@@ -163,8 +178,8 @@
 <a title="OpenAI" href="https://openai.com">
   <img width="40" src="./assets/openai.png" alt="OpenAI's logo" />
 </a>
-<a title="Auth.js" href="https://zod.dev/">
-  <img width="40" src="./assets/zod.png" alt="Auth.js's logo" />
+<a title="Zod" href="https://zod.dev/">
+  <img width="40" src="./assets/zod.png" alt="Zod's logo" />
 </a>
 <a title="Auth.js" href="https://authjs.dev/">
   <img height="40" src="./assets/authjs.png" alt="Auth.js's logo" />
@@ -271,7 +286,14 @@
     alt="Editorconfig's logo"
   />
 </a>
-<a title="Npm" href="https://www.npmjs.com/">
+<a title="Npm" href="https://pnpm.io/">
+  <img
+    width="40"
+    src="./assets/pnpm.png"
+    alt="Npm's logo"
+  />
+</a>
+<a title="Pnpm" href="https://www.npmjs.com/">
   <img
     width="40"
     src="./assets/npmjs.svg"
