@@ -1,14 +1,18 @@
 <h1 align="center">Hello there ✨</h1>
 
 <p align="center">
-  Enthusiast of programming and dark music. Admirer of clean code. Backend & Frontend Developer
+   Creator of <a href="https://rigtch.fm">rigtch.fm</a>.
+   Enthusiast of programming and dark music.<br />
+   Admirer of clean code. Fullstack Developer.
+</p>
+<p align="center">
+
+</p>
 
 - [Gitlab](https://gitlab.com/Mnigos)
 - [LinkedIn](https://www.linkedin.com/in/igor-makowski-b30684206)
 
 ![Visitors](https://komarev.com/ghpvc/?username=MoneyIgos) [![Coffee](https://badgen.net/badge/Buy%20Me/A%20Coffee/purple?icon=kofi)](https://www.buymeacoffee.com/mnigos)
-
-</p>
 
 <p align="center">
   <img
