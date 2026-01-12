@@ -462,16 +462,3 @@
   />
 </a>
 </div>
-
-<h2 align="center">Stats</h2>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnigos&layout=compact&theme=tokyonight" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mnigos&count_private=true&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mnigos&theme=tokyonight" alt="moneyigos" /></p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MoneyIgos&layout=compact&theme=tokyonight" />
-</p>
