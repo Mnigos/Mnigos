@@ -2,8 +2,7 @@
 
 <p align="center">
    Creator of <a href="https://rigtch.fm">rigtch.fm</a>.
-   Enthusiast of programming and dark music.<br />
-   Admirer of clean code. Fullstack Developer.
+   Enthusiast of programming and dark music. Fullstack Developer.
 </p>
 <p align="center">
 
